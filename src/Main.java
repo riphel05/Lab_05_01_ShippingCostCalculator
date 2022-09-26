@@ -2,8 +2,8 @@ public class
 Main {
     public static void main(String[] args)
     {
-        final double itemCost = 100.00;
-        double itemCost = 100;
+        final double minCost = 100.00;
+        double itemCost = 101;
         double shippingCost;
         double totalCost;
 
